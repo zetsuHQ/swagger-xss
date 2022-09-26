@@ -1,9 +1,0 @@
-{
-    "url": "https://raw.githubusercontent.com/dk4trin/swagger-xss/main/xss.yaml",
-    "urls": [
-        {
-            "url": "https://raw.githubusercontent.com/dk4trin/swagger-xss/main/xss.yaml",
-            "name": "Foo"
-        }
-    ]
-}
