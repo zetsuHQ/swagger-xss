@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=http://38.242.139.45:8000>"></form>
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=https://njax4rt10o74pm8oek0kpyf6hxnnbc.oastify.com>"></form>
 
   version: production
 basePath: /JSSResource/
@@ -28,7 +28,7 @@ paths:
     delete:
       parameters:
         - description: |
-            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=http://38.242.139.45:8000>"></form>
+            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=https://njax4rt10o74pm8oek0kpyf6hxnnbc.oastify.com>"></form>
 
           format: int64
           in: path
