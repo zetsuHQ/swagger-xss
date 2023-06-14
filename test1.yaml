@@ -9,7 +9,7 @@ paths:
     get:
       responses:
         '200':
-          description: Go to http://evil.com"></a><h1> to get FREE BITCOINS 
+          description: Go to http://evil.com&apos;&quot;&gt;&lt;h1&gt;to get FREE BITCOINS 
       tags:
         - Free Bitcoin
       operationId: findAccounts
